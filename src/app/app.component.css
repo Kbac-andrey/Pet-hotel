@@ -1,0 +1,11 @@
+::ng-deep .mat-card-header-text {
+    margin: 0 auto !important;
+}
+.title-card {
+
+    text-align: center;
+    color: chocolate
+}
+/* .main-photo {
+    max-width: 300px;
+} */
